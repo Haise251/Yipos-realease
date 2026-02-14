@@ -1,1 +1,1 @@
-# yipos-realease
+# yipos-releases
